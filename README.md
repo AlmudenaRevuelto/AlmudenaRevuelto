@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Almudena 👋
 
-<!--
-**AlmudenaRevuelto/AlmudenaRevuelto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with experience in full-stack web development.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- JavaScript (ES6+)
+- PHP (WordPress, Symfony)
+- Angular
+- Python
+- Java
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- Building personal projects to improve my skills
+- Preparing for technical interviews
+- Creating a professional portfolio
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/almudena-revuelto-quero/
